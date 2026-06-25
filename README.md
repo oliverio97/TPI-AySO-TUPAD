@@ -23,10 +23,14 @@ El script solicitará el ingreso de tres notas al usuario mediante un bucle, cal
 Equipo de Desarrollo y Reparto de Tareas
 El presente trabajo se desarrolló implementando una división de tareas equitativa, asegurando que cada miembro del equipo asumiera aproximadamente el 50% del esfuerzo total del proyecto.
 Miembro del Equipo
-Tareas Principales Asignadas
-Mauro Liciaga
+
+
+Tareas Principales Asignadas:
+
+**Mauro Liciaga**: 
 Investigación bibliográfica inicial, instalación y configuración base de la máquina virtual en VirtualBox, y redacción preliminar del Marco Teórico.
-Oliverio Arce
+
+**Oliverio Arce**: 
 Diseño y codificación del script de Python en el IDE, pruebas de depuración en el sistema anfitrión y estructuración inicial del repositorio de Git.
 Ambos
 Pruebas de transferencia del archivo hacia la VM, ejecución en la terminal de Ubuntu, captura de evidencias visuales, redacción de conclusiones y edición del informe PDF.
